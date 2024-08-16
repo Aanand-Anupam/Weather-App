@@ -1,0 +1,1 @@
+#This is a weather app maade with HTML, CSS an JS.
