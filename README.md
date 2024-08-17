@@ -1,1 +1,1 @@
-# This is a weather app maade with HTML, CSS an JS.
+# This is a weather app made with HTML, CSS an JS.git 
